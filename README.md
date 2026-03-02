@@ -77,7 +77,7 @@
         <header>
             <h1>CLUB DE VOLEIBOL CENDENAS ASOCIACIÓN CIVIL POLIDEPORTIVO NARVÁEZ SALAVE</h1>
             <div class="logo">
-                <img src="Logtipo.png" alt="Logo del Club CENDENAS">
+                <img src="Logtipo.jpg" alt="Logo del Club CENDENAS">
             </div>
             <p>Bienvenidos al club, donde el esfuerzo y la disciplina se unen,donde la pasión por el deporte tiene un nuevo hogar.</p>
         </header>
