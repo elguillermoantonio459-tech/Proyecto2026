@@ -22,7 +22,7 @@
             margin-bottom: 40px;
         }
         .logo {
-            border-radius: 60%;
+            border-radius: 50%;
             border: 5px solid black;
             overflow: hidden;
             width: 150px;
