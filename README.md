@@ -24,8 +24,8 @@
         .logo {
             border: 5px solid black;
             overflow: hidden;
-            width: 150px;
-            height: 150px;
+            width: 110px;
+            height: 110px;
             margin: 0 auto;
         }
         .logo img {
