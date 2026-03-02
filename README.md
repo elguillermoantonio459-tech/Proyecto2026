@@ -13,7 +13,7 @@
             padding: 0;
         }
         .container {
-            max-width: 1200px;
+            max-width: 200px;
             margin: auto;
             padding: 20px;
         }
@@ -25,8 +25,8 @@
             border-radius: 50%;
             border: 5px solid black;
             overflow: hidden;
-            width: 10px;
-            height: 10px;
+            width: 150px;
+            height: 150px;
             margin: 0 auto;
         }
         .logo img {
