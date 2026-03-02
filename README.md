@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -77,7 +77,7 @@
         <header>
             <h1>CLUB DE VOLEIBOL CENDENAS ASOCIACIÓN CIVIL POLIDEPORTIVO NARVÁEZ SALAVE</h1>
             <div class="logo">
-                <img src="logo/Logo.png" alt="Logo del Club CENDENAS">
+                <img src="Logotipo.jpg" alt="Logo del Club CENDENAS">
             </div>
             <p>Bienvenidos al club, donde el esfuerzo y la disciplina se unen,donde la pasión por el deporte tiene un nuevo hogar.</p>
         </header>
